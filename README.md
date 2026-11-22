@@ -6,8 +6,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-CIFAR--10-green.svg)](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 **Author:** Dasari Lohith  
-**Roll Number:** 24110100  
-**Course Assignment:** Assignment 4  
+
 
 ---
 
